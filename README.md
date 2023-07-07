@@ -1,2 +1,4 @@
 # Student_Support_VITCHAT
-The VIT AP University Chatbot repository hosts a rule-based chatbot for student support and admission queries. Powered by NLP, it provides accurate and personalized responses, utilizing an extensive knowledge base. It offers an intuitive interface, error handling, and welcomes contributions.MIT License.
+## VITCHAT: Empowering VIT-AP Students through Seamless Support
+
+Discover VITCHAT, an advanced chatbot project exclusively created for the students of VIT-AP University. Experience reliable and personalized support, available round the clock. Seamlessly navigate the user-friendly interface to access comprehensive details about the university. Let VITCHAT be your trusted companion as you embark on your academic journey at VIT-AP University.
